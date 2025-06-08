@@ -5,7 +5,7 @@ This is a 3D solar system and galaxy visualization project built using [p5.js](h
 ---
 
 ## Images
-![space sphare](image.png)
+![space sphare](assets/images/image.png)
 
 ## Features
 
@@ -44,4 +44,3 @@ This is a 3D solar system and galaxy visualization project built using [p5.js](h
 - Add surface textures for planets.
 - Add glow effect around the sun.
 
----
