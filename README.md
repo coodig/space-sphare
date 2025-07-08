@@ -7,6 +7,11 @@ This is a 3D solar system and galaxy visualization project built using [p5.js](h
 ## Images
 ![space sphare](assets/images/image.png)
 ![space sphare](assets/images/image.png)
+![space sphare](assets/images/image.png)
+![space sphare](assets/images/image.png)
+![space sphare](assets/images/image.png)
+![space sphare](assets/images/image.png)
+![space sphare](assets/images/image.png)
 
 ## Features
 
